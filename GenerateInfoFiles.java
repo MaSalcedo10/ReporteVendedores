@@ -26,6 +26,8 @@ public class GenerateInfoFiles {
         }
     }
 
+    
+
     public void imprimirlinea(){
         for(int i = 0; i < partes.length; i++){
             System.out.print(partes[i]+" | ");
